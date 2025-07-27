@@ -16,7 +16,7 @@ This project is a personal exploration of Game of Thrones using SQL and Python t
 - **Python**: For data preprocessing, analysis, clustering, and visualization
 - **SQL**: For initial data cleaning, aggregation, and joins
 
-### 📦 Data Sources
+### Data Sources
 - Collected from **4 separate Kaggle datasets**
 - Organized into tables covering: episodes, ratings, notable death count, etc.
 - Note: Only U.S. viewership data is available; international metrics were not accessible
