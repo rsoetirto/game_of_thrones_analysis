@@ -1,8 +1,9 @@
+# Game of Thrones (Season 1-8) Episode and Audience Analysis
 ![Iron Throne](https://static.wikia.nocookie.net/gameofthrones/images/c/ca/Iron_Throne_Official_Guide.jpg/revision/latest/scale-to-width-down/1000?cb=20220906170837) 
 
 This project is a personal exploration of Game of Thrones using SQL and Python to analyze audience engagement and episode performance. As a fan of both the books and the show, I wanted to investigate how different episodes resonated with viewers. The analysis includes exploratory data analysis (EDA) and unsupervised machine learning (clustering) to identify patterns across episodes based on metrics like U.S. viewership, ratings, and votes. Data was sourced from four Kaggle datasets and managed in DBeaver using PostgreSQL, with each table focusing on different aspects of the show. The goal is to segment episodes by how they were received and highlight trends in audience reaction over time.
 
-# Game of Thrones (Season 1-8) Episode and Audience Analysis
+------
 
 ### Overview
 - Performs exploratory data analysis (EDA) on structured episode data
